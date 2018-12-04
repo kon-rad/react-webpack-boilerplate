@@ -1,0 +1,14 @@
+.startButton {
+    background-color: green;
+}
+
+.stopButton {
+    background-color: red;
+}
+
+.button {
+    color: green;
+    width: 100px;
+    height: 42px;
+    margin: 100px auto 200px auto;
+}
